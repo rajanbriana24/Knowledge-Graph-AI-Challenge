@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-01-12 at 21 37 10](https://github.com/user-attachments/assets/d1d9eb1b-cfef-4bbf-8930-12a9b34dd904)
 # Smart Urban Planning Assistant
 
 ## Overview
