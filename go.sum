@@ -1,2 +1,8 @@
+github.com/graphql-go/graphql v0.8.1 h1:p7/Ou/WpmulocJeEx7wjQy611rtXGQaAcXGqanuMMgc=
+github.com/graphql-go/graphql v0.8.1/go.mod h1:nKiHzRM0qopJEwCITUuIsxk9PlVlwIiiI8pnJEhordQ=
 github.com/hypermodeinc/modus/sdk/go v0.16.1 h1:r4P9jtDI/4t0Lj/aVAezXSSfMOJ2ksuKk5xWuvQAK7g=
 github.com/hypermodeinc/modus/sdk/go v0.16.1/go.mod h1:T3yLwJbP8Byf/Z6xovxP90hp8ECnpvajGdmbklW4pAk=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/neo4j/neo4j-go-driver/v5 v5.27.0 h1:YdsIxDjAQbjlP/4Ha9B/gF8Y39UdgdTwCyihSxy8qTw=
+github.com/neo4j/neo4j-go-driver/v5 v5.27.0/go.mod h1:Vff8OwT7QpLm7L2yYr85XNWe9Rbqlbeb9asNXJTHO4k=

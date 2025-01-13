@@ -1,0 +1,9 @@
+Zone,FamilySize,MaritalStatus,NumChildren,AgeGroup,NearbyParks,NearbySchools,NearbyHospitals,LandType,Landscape,PublicTransportAccess,Utilities,ShoppingCenters,FitnessCenters,ChildCareServices,AvgHousingCost,CrimeRate,RentalAvailability,AvgSizePerHome,AirQualityIndex,GreenCover,NoisePollutionLevel
+Downtown Phoenix,4,Married,2,31-40,5,8,4,Residential,Urban,Yes,"Salt River Project,Central Arizona Project",10,4,3,2000,35,50,1200,80,20,60
+Tempe,2,Single,0,21-30,3,5,3,Mixed-use,Urban,Yes,"Tempe Water Services,Tempe Electric",8,5,1,1800,25,60,1000,75,25,55
+Scottsdale,3,Married,1,31-40,7,10,5,Residential,Suburban,Yes,"Scottsdale Water Company,Scottsdale Power Grid",15,6,2,2500,15,40,1500,90,35,45
+Mesa,5,Married,3,41-50,4,7,3,Residential,Suburban,No,"Mesa Utilities,Mesa Renewable Energy",12,5,3,2200,20,30,1400,85,30,50
+Gilbert,4,Married,2,31-40,6,9,4,Residential,Suburban,Yes,"Gilbert Water Services,Gilbert Power Supply",12,5,2,2100,10,50,1300,85,40,40
+Chandler,3,Married,2,31-40,5,8,4,Mixed-use,Suburban,Yes,"Chandler Water Services,Chandler Electric Utility",13,7,3,2300,15,45,1400,88,35,45
+Sun City,2,Married,0,61+,4,5,2,Residential,Suburban,No,"Sun City Water District,Sun City Power Grid",8,4,1,1700,5,70,1000,75,50,30
+
