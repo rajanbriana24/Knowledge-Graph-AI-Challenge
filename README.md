@@ -48,7 +48,6 @@ The **Smart Urban Planning Assistant** is an AI-driven platform designed to empo
 ## Technologies Used
 
 - **Backend:** Go
-- **Frontend:** React.js
 - **Database:** Neo4j
 - **AI Integration:** OpenAI API
 
