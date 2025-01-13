@@ -6,5 +6,20 @@
       "path": "/graphql",
       "auth": "bearer-token"
     }
+  },
+  "connections": {
+    "my-database": {
+      "type": "neo4j",
+      "dbUri": "neo4j+s://8c5c717a.databases.neo4j.io",
+      "username": "{{NEO4J_USERNAME}}",
+      "password": "{{NEO4J_PASSWORD}}"
+    }
+  },
+  "models": {
+    "text-generator": {
+      "sourceModel": "gpt-4o",
+      "connection": "openai",
+      "path": "v1/chat/completions"
+    }
   }
 }
