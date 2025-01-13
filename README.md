@@ -60,9 +60,10 @@ The **Smart Urban Planning Assistant** is an AI-driven platform designed to empo
    ```bash
    git clone https://github.com/rajanbriana24/smart-urban-planning-assistant.git
 
-2. **Navigate to the Project Directory:
+2. **Navigate to the Project Directory:**
    
   ```bash
   cd smart-urban-planning-assistant
 
+3. **Add OpenAI API token in the chat.go file**
 
