@@ -64,6 +64,6 @@ The **Smart Urban Planning Assistant** is an AI-driven platform designed to empo
    
   ```bash
   cd smart-urban-planning-assistant
-
+```
 3. **Add OpenAI API token in the chat.go file**
 
