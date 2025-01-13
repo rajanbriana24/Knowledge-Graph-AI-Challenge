@@ -62,4 +62,6 @@ The **Smart Urban Planning Assistant** is an AI-driven platform designed to empo
 2. **Navigate to the Project Directory:
    
   ```bash
-  cd smart-urban-planning-assistant  
+  cd smart-urban-planning-assistant
+
+
