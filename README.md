@@ -1,5 +1,3 @@
-![WhatsApp Image 2025-01-12 at 21 47 33](https://github.com/user-attachments/assets/13eee779-1b6e-431c-a88b-7694af4d748b)
-![WhatsApp Image 2025-01-12 at 21 37 10](https://github.com/user-attachments/assets/d1d9eb1b-cfef-4bbf-8930-12a9b34dd904)
 # Smart Urban Planning Assistant
 
 ## Overview
@@ -38,6 +36,7 @@ The **Smart Urban Planning Assistant** is an AI-driven platform designed to empo
 ### Agentic Task Planning
 
 - **Description:** Utilizes agent workflows for AI to access and process graph data, automatically pulling relevant data sources for detailed queries.
+- ![WhatsApp Image 2025-01-12 at 21 37 10](https://github.com/user-attachments/assets/d1d9eb1b-cfef-4bbf-8930-12a9b34dd904)
 
 ### Search and Visualization Interface
 
@@ -66,4 +65,5 @@ The **Smart Urban Planning Assistant** is an AI-driven platform designed to empo
   cd smart-urban-planning-assistant
 ```
 3. **Add OpenAI API token in the chat.go file**
+![WhatsApp Image 2025-01-12 at 21 47 33](https://github.com/user-attachments/assets/13eee779-1b6e-431c-a88b-7694af4d748b)
 
